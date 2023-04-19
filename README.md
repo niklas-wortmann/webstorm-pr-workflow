@@ -7,3 +7,4 @@ It supports several features that usually require a dedicated Git Client or a Te
 - Checkout Repositories from your GitHub Account
 - Creating and Sycning a Fork
 - Create a Gist
+- Reviewing Pull Requests
